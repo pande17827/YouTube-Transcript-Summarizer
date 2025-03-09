@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-ollama
+dotenv
+youtube-transcript-api
+huggingface_hub
