@@ -20,9 +20,9 @@
 ## 📸 Screenshots
 
 ### 🔹 Main Interface
-![mainui.png](attachment:mainui.png)
+Screenshots/mainui.png
 ### 🔹 Summary Output
-![summar.png](attachment:summar.png)
+Screenshots/summar.png
 
 ## 🛠️ Installation & Setup
 
